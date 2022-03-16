@@ -1,2 +1,4 @@
 # Sololearn-Questions-Solved
-In this repository I will solve questions of sololearn.
+Hello Guys, in this repository I will give all question of Sololearn in python.
+
+###Please give this repo a star!
